@@ -50,7 +50,7 @@
               <br>
               
               <?php
-              $chunk = array_chunk($product,5);
+              $chunk = array_chunk($product,2);
               $ju = count($chunk);
               for($i=0;$i<2;$i++){
               ?>

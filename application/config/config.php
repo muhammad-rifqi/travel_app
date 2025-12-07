@@ -23,8 +23,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
- $config['base_url'] = 'https://baltichost.id/toya/';
- //$config['base_url'] = 'http://localhost/toya-webapps/';
+//  $config['base_url'] = 'https://baltichost.id/toya/';
+ $config['base_url'] = 'http://localhost/travel_app/';
 /*
 |--------------------------------------------------------------------------
 | Index File

@@ -7,7 +7,7 @@ class User extends CI_Controller {
 		date_default_timezone_set("Asia/Jakarta");
   		parent::__construct();
   		$this->load->helper(array('form', 'url','file'));
-			$this->load->library('session');
+		$this->load->library('session');
 
 	}
 
