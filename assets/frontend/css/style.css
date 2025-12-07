@@ -1,0 +1,11 @@
+.clearfix {
+    clear: both;
+}
+
+div.col-sm-7.five-three {
+    width: 60% !important;
+}
+
+div.col-sm-5.five-two {
+    width: 40% !important;
+}
